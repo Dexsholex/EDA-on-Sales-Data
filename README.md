@@ -53,7 +53,7 @@ The project includes various visualizations created using Matplotlib, Seaborn, a
 
 ## Author
 
-- **Your Name** - Data Analyst
+- **Oluwasola Oyinloye** - Data Analyst
 
 ## License
 
